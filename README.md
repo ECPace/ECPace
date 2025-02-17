@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying IT on **UNIFOA Volta Redonda**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pardalzovisk](https://github.com/ECPace)
+- 👨‍💻 All of my projects are available at [https://github.com/ECPace](https://github.com/ECPace)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
